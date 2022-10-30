@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hotel_booking/home.dart';
-import 'package:hotel_booking/theme.dart';
+import 'package:hotel_booking/src/presentation/views/home.dart';
+import 'package:hotel_booking/src/config/theme.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
